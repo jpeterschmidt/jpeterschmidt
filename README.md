@@ -1,5 +1,5 @@
 ### Hey, I'm Jacqui!
-_Senior software engineer at [Vendr](https://www.vendr.com/)_
+_Staff software engineer at Zylo_
 
 ### At a glance
 - **Pronouns**: she/her
@@ -52,10 +52,5 @@ _Senior software engineer at [Vendr](https://www.vendr.com/)_
 - **Belief in personality types & zodiac signs**: none
 - **Dietary restrictions**: allergic to cashews, don't like shellfish
 - **IntelliJ vs VsCode**: IntelliJ _always_
-- **Favorite TV**: Stargate SG-1, M\*A\*S\*H
-- **Favorite movie**: Master and Commander: The Far Side of the World
-- **Favorite book**: Hornblower and the Hotspur
-- **Favorite music**: The Fratellis, The Longest Johns
-- **Worst movie ever seen**: The Lost Treasure of the Grand Canyon
 - **What I do outside of work**: ride horses, sew clothing, hand-spin yarn, leatherwork,
 video games on casual mode (Mass Effect, Dragon Age, Stardew Valley, Planet Zoo)
